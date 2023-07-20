@@ -12,7 +12,7 @@ I am confident in
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim,figma,linux,css,html,react,vue" />
+    <img src="https://skillicons.dev/icons?i=vim,linux,css,html,react,vue" />
   </a>
 </p>
 
