@@ -1,6 +1,6 @@
 # Andrea Yap :bug:
 
-**``Musician/Creator/Developer``**
+**``Aspiring Data Engineer``**
 
 I'm a full-stack developer building interactive solutions to real-life problems one step at a time.  All coding projects are built from scratch: ideation, user requirements, planning, testing and of course, developing :computer: I'm currently working on VR model designs and VR game development :video_game:
 
