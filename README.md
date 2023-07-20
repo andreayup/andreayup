@@ -7,19 +7,19 @@ I'm a full-stack developer building interactive solutions to real-life problems 
 I am confident in
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,react,vue" />
+    <img src="https://skillicons.dev/icons?i=mysql,js,py,flask,java,php" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask,java,php,py,vim,figma,linux" />
+    <img src="https://skillicons.dev/icons?i=vim,figma,linux,css,html,react,vue" />
   </a>
 </p>
 
 And... I've used the following <i><b>extensively</b></i> in my projects
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,c,cs,firebase,figma,nodejs,mysql,unity" />
+    <img src="https://skillicons.dev/icons?i=docker,c,cs,firebase,figma,nodejs,unity" />
   </a>
 </p>
 
