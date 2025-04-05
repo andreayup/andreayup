@@ -1,9 +1,8 @@
 # Andrea Yap :bug:
 
-**``Aspiring Data Engineer``**
+**``Software Engineer``**
 
-I'm a backend engineer building interactive solutions to real-life problems one step at a time.  All coding projects are built from scratch: ideation, user requirements, planning, testing and of course, developing :computer: I'm currently working on VR model designs and VR game development :video_game:
-
+I'm a backend engineer building interactive solutions to real-life problems one step at a time.  All coding projects are built from scratch: ideation, user requirements, planning, testing and of course, developing :computer: 
 I am confident in
 <p align="center">
   <a href="https://skillicons.dev">
