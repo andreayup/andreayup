@@ -2,16 +2,13 @@
 <details id="contents">
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#about-me">About Me</a></li>
+    <li><a href="#andrea-yap">About Me</a></li>
     <li><a href="#self-initiated-projects">Self-Initiated Projects</a></li>
-    <li><a href="#makeup-artist-service-portfolio-website">Makeup Artist Service & Portfolio Website</a></li>
-    <li><a href="#tech-stack">Tech Stack</a></li>
-    <li><a href="#live-demo">Live Demo</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
-# Andrea Yap :bug:
+# Andrea Yap
 
 **``Software Engineer``**
 
@@ -39,7 +36,7 @@ And... I've used the following <i><b>extensively</b></i> in my projects
   <details>
     <summary><b>👩‍🎨 Makeup Artist Service & Portfolio Website</b></summary>
 
-  This is a [client-facing website](dreamakeup.netlify.app) which includes a dynamic rate calculator, a FAQ page with fuzzy search functionality, and a responsive contact form.
+  This is a <a href="https://dreamakeup.netlify.app" target="_blank">client-facing website</a> which includes a dynamic rate calculator, a FAQ page with fuzzy search functionality, and a responsive contact form.
 
 #### Features:
 - **Dynamic Rate Calculator**  
@@ -59,7 +56,7 @@ And... I've used the following <i><b>extensively</b></i> in my projects
   - **Email Integration**: EmailJS
 
 
-Note: The project code is currently **private**. However, feel free to reach out if you'd like to learn more about the development process or view it live [here](dreamakeup.netlify.app).
+Note: The project code is currently **private**. However, feel free to reach out if you'd like to learn more about the development process or view it live <a href="https://dreamakeup.netlify.app" target="_blank">here</a>.
 
   </details>
 
@@ -71,7 +68,7 @@ Note: The project code is currently **private**. However, feel free to reach out
         <br><br>
         Our application covers the most essential features a physiotherapist will need when carrying out their day-to-day responsibilities of keeping track of their equipment.
         <br><br>
-        View our repo 
+        View more details 
         <a href="https://github.com/tame12/compactor-management-system" target="_blank">here</a>.
       </p>
   </details>
